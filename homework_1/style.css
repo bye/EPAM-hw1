@@ -1,3 +1,4 @@
+
 @font-face {
   font-family: 'Oswald Regular';
   font-style: normal;
@@ -30,6 +31,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   line-height: 1;
+    font-family: 'Oswald', sans-serif;
 }
 
 ol, ul, nav {
@@ -45,13 +47,13 @@ a {
 }
 
 .wraper {
-    font-family: 'Oswald Regular', Tahoma, sans-serif;
+    font-family: 'Oswald', 'Oswald Regular', Tahoma, sans-serif;
     font-weight: 400;
     max-width: 1440px;
     margin: 0 auto;
 }
 .link {
-    font-family: 'Oswald Regular', Tahoma, sans-serif;
+    font-family: 'Oswald', 'Oswald Regular', Tahoma, sans-serif;
     text-decoration: none;
     display: inline-block; 
 }
